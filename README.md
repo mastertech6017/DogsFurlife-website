@@ -1,2 +1,1 @@
-# DogsFurlife-website
-Landing website
+Copyright
